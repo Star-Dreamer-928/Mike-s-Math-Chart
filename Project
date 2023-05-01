@@ -1,4 +1,4 @@
-# I hope this is a simple yet satifying little program.
+# It's supposed to be a multiplication table
 
 start_range = int(input("Enter the start number of the table: "))
 end_range = int(input("Enter the end number of the table: "))
