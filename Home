@@ -1,10 +1,25 @@
 # Main screan. Asks user what function they want to complete.
 
-Addition
-Subtraction
-Multiplication
-Division
+print(Title) # Name in progress
+print("Welcome, please choose a function.")
 
-Math Table
-Fractions
-Calculus
+# Addition
+open(add.py)
+
+# Subtraction
+open(sub.py)
+
+# Multiplication
+open(mult.py)
+
+# Division
+open(divd.py)
+
+# Math Table
+open(tbl.py)
+
+# Fractions
+open(frc.py)
+
+# Calculus
+open(calc.py)
