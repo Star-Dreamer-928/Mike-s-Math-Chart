@@ -5,4 +5,4 @@ num2 = float(input("Enter second number: "))
 
 summ = num1 + num2
 
-print(num1, "+", num2, "=", summ
+print(num1, "+", num2, "=", summ)
