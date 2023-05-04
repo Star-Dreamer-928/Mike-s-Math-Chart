@@ -5,4 +5,4 @@ num2 = float(input("Enter second number: "))
 
 remainder = num1 - num2
 
-print(num1, "-", num2, "=", remainder)
+print(num1, "-", num2, "=", remainder
