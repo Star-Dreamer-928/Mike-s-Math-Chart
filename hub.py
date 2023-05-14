@@ -24,9 +24,6 @@ def runscript4():
 def runscript5():
     subprocess(["python", "path/to/table.py"])
 
-def runscript6():
-    subprocess(["python", "path/to/facts.py"])
-
 button1 = tk.Button(root, text="Addition", command=runscript1)
 button1.pack()
 
@@ -41,9 +38,6 @@ button4.pack()
 
 button5 = tk.Button(root, text="Math Table", command=runscript5)
 button5.pack()
-
-button6 = tk.Button(root, text="Math Facts", command=runscript6)
-button6.pack()
 
 exit = tk.Button(root, text="Exit", command=root.destroy)
 exit.pack(pady=20)
