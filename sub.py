@@ -15,9 +15,6 @@ def sub_numbers():
     
 rem_label.config(text="remainder:" + str(result))
 
-root = tk.Tk()
-root.title("Subtraction")
-
 entry1 = tk.Entry(root)
 entry1.pack()
 
