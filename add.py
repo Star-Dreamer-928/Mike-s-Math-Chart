@@ -15,9 +15,6 @@ def add_numbers():
     
 sum_label.config(text="Sum:" + str(result))
 
-root = tk.Tk()
-root.title("Addition")
-
 entry1 = tk.Entry(root)
 entry1.pack()
 
