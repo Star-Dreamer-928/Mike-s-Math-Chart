@@ -15,9 +15,6 @@ def div_numbers():
     
 qot_label.config(text="qoutient:" + str(result))
 
-root = tk.Tk()
-root.title("Divide")
-
 entry1 = tk.Entry(root)
 entry1.pack()
 
