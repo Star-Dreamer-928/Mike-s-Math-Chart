@@ -15,9 +15,6 @@ def mul_numbers():
     
 pro_label.config(text="product:" + str(result))
 
-root = tk.Tk()
-root.title("Multiplication")
-
 entry1 = tk.Entry(root)
 entry1.pack()
 
